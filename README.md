@@ -19,10 +19,6 @@ This project reads temperature and humidity data using the Sense HAT on a Raspbe
 - `sense_hat`
 - `adafruit-io`
 
-Install them using:
-```bash
-pip install sense-hat adafruit-io
-
 ##  How to use
 1) Reads sensor data from Sense HAT.
 
@@ -31,5 +27,11 @@ pip install sense-hat adafruit-io
 3) Displays the values on the Sense HAT LED matrix.
 
 4) Repeats every 5 seconds.
+
+
+Install them using:
+```bash
+pip install sense-hat adafruit-io
+
 
 
